@@ -33,7 +33,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-  
+ I am a Full Start Developer passionate about creating high-performance applications with a well-organized architecture.
   
 </p>
 
